@@ -1,0 +1,7 @@
+D:\ПРОГРАММИРОВАНИЕ\4_семестр\Сетевое программирование\2_УРОК\UDP_Server_File\WebClient\bin\Debug\WebClient.exe.config
+D:\ПРОГРАММИРОВАНИЕ\4_семестр\Сетевое программирование\2_УРОК\UDP_Server_File\WebClient\bin\Debug\WebClient.exe
+D:\ПРОГРАММИРОВАНИЕ\4_семестр\Сетевое программирование\2_УРОК\UDP_Server_File\WebClient\bin\Debug\WebClient.pdb
+D:\ПРОГРАММИРОВАНИЕ\4_семестр\Сетевое программирование\2_УРОК\UDP_Server_File\WebClient\obj\Debug\_WebClient.csprojResolveAssemblyReference.cache
+D:\ПРОГРАММИРОВАНИЕ\4_семестр\Сетевое программирование\2_УРОК\UDP_Server_File\WebClient\obj\Debug\_WebClient.csproj.CoreCompileInputs.cache
+D:\ПРОГРАММИРОВАНИЕ\4_семестр\Сетевое программирование\2_УРОК\UDP_Server_File\WebClient\obj\Debug\WebClient.exe
+D:\ПРОГРАММИРОВАНИЕ\4_семестр\Сетевое программирование\2_УРОК\UDP_Server_File\WebClient\obj\Debug\WebClient.pdb

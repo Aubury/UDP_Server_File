@@ -1,0 +1,9 @@
+D:\ПРОГРАММИРОВАНИЕ\4_семестр\Сетевое программирование\2_УРОК\UDP_Server_File\Info_FileS\obj\Debug\netstandard2.0\Info_FileS.csprojResolveAssemblyReference.cache
+D:\ПРОГРАММИРОВАНИЕ\4_семестр\Сетевое программирование\2_УРОК\UDP_Server_File\Info_FileS\obj\Debug\netstandard2.0\Info_FileS.csproj.CoreCompileInputs.cache
+D:\ПРОГРАММИРОВАНИЕ\4_семестр\Сетевое программирование\2_УРОК\UDP_Server_File\Info_FileS\obj\Debug\netstandard2.0\Info_FileS.AssemblyInfoInputs.cache
+D:\ПРОГРАММИРОВАНИЕ\4_семестр\Сетевое программирование\2_УРОК\UDP_Server_File\Info_FileS\obj\Debug\netstandard2.0\Info_FileS.AssemblyInfo.cs
+D:\ПРОГРАММИРОВАНИЕ\4_семестр\Сетевое программирование\2_УРОК\UDP_Server_File\Info_FileS\bin\Debug\netstandard2.0\Info_FileS.deps.json
+D:\ПРОГРАММИРОВАНИЕ\4_семестр\Сетевое программирование\2_УРОК\UDP_Server_File\Info_FileS\bin\Debug\netstandard2.0\Info_FileS.dll
+D:\ПРОГРАММИРОВАНИЕ\4_семестр\Сетевое программирование\2_УРОК\UDP_Server_File\Info_FileS\bin\Debug\netstandard2.0\Info_FileS.pdb
+D:\ПРОГРАММИРОВАНИЕ\4_семестр\Сетевое программирование\2_УРОК\UDP_Server_File\Info_FileS\obj\Debug\netstandard2.0\Info_FileS.dll
+D:\ПРОГРАММИРОВАНИЕ\4_семестр\Сетевое программирование\2_УРОК\UDP_Server_File\Info_FileS\obj\Debug\netstandard2.0\Info_FileS.pdb

@@ -1,0 +1,7 @@
+D:\ПРОГРАММИРОВАНИЕ\4_семестр\Сетевое программирование\2_УРОК\UDP_Server_File\Info\obj\Debug\Info.csproj.CoreCompileInputs.cache
+D:\ПРОГРАММИРОВАНИЕ\4_семестр\Сетевое программирование\2_УРОК\UDP_Server_File\Info\bin\Debug\Info.exe.config
+D:\ПРОГРАММИРОВАНИЕ\4_семестр\Сетевое программирование\2_УРОК\UDP_Server_File\Info\bin\Debug\Info.exe
+D:\ПРОГРАММИРОВАНИЕ\4_семестр\Сетевое программирование\2_УРОК\UDP_Server_File\Info\bin\Debug\Info.pdb
+D:\ПРОГРАММИРОВАНИЕ\4_семестр\Сетевое программирование\2_УРОК\UDP_Server_File\Info\obj\Debug\Info.csprojResolveAssemblyReference.cache
+D:\ПРОГРАММИРОВАНИЕ\4_семестр\Сетевое программирование\2_УРОК\UDP_Server_File\Info\obj\Debug\Info.exe
+D:\ПРОГРАММИРОВАНИЕ\4_семестр\Сетевое программирование\2_УРОК\UDP_Server_File\Info\obj\Debug\Info.pdb
